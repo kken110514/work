@@ -29,7 +29,7 @@ function Header() {
     <Link to ='/login'>
     <div onClick={handleAuthentication} className='header__option'>
         <span className='header__optionLineOne'>
-            Halo Guest
+            Wow! Halo Guest
         </span>
         <span className='header__optionLineTwo'>
             {user ? 'Sign Out' : 'Sign In'}
@@ -51,7 +51,7 @@ function Header() {
             Your
         </span>
         <span className='header__optionLineTwo'>
-            Supreme
+            Delux
         </span>
     </div>
 
