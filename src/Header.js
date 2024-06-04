@@ -42,7 +42,7 @@ function Header() {
             Return
         </span>
         <span className='header__optionLineTwo'>
-            & Orders
+            & Order
         </span>
     </div>
 
