@@ -51,7 +51,7 @@ function Header() {
             Your
         </span>
         <span className='header__optionLineTwo'>
-            Prime
+            Delux
         </span>
     </div>
 
